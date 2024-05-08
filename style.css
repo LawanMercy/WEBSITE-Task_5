@@ -722,6 +722,7 @@ text-transform: inherit;
   border-radius: 10px;
   padding: 37px 33px;
   box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.15);
+  margin-top: 50px;
 }
 
 .section_5_content .phone {
