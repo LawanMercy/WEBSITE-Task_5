@@ -58,10 +58,11 @@
   color: #fff;
   font-size: 14px;
   transition: all .3s;
+ align-items: center;
 }
 
 .top_header .top_header_social_links li a:hover {
-  background-color: #111012;
+  background-color:  #f35525;
 }
 
 .top_header ul.info li {
@@ -192,6 +193,7 @@
   margin-bottom: 10px;
   padding-block: 20px;
   padding-inline: 20px;
+ 
 }
 
 .media_menu_items li:not(:last-child){
@@ -254,7 +256,6 @@
 
 .banner .banner_content {
   background-image:url(Images/banner-03.jpg);
-
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
