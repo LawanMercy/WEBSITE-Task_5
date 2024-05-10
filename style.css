@@ -673,11 +673,14 @@ font-weight: 500;
   padding: 10px 10px;
   border-radius: 50px;
   transition: all ease-in-out 0.4s;
+ 
 }
 
 .section_4 .item .main_button a {
   color: #ffffff;
 }
+
+
 
 .section_4 .item .main_button:hover {
   background: #ea4816;
